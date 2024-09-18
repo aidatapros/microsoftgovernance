@@ -57,10 +57,12 @@ Hour 1: Introduction to Data Governance
 Hour 2: Defining Governance Requirements
 * Explore business goals and collaboration needs.
 * Identify sensitive data and compliance requirements.
+* Introduction to Purview
 
 Hour 3: Policy Design and Best Practices
 * Discuss governance best practices: site creation, team naming conventions, and access controls.
 * Introduce specific Microsoft 365 governance tools like sensitivity labels and guest access controls.
+* Building a sustainable Data and Reporting Catalog
 
 Hour 4: Phased Implementation and Next Steps
 * Plan a phased rollout.
