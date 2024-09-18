@@ -12,6 +12,7 @@ Microsoft Governance Introduction for Organisations thinking about Architecting 
 * Working cross tenant to improve tenant to tenant organisations (shared channels).
 
 ## Phases
+* Good Governance preceeds Good adoption
 * First make sure M365 Group Governance in order - (even if you just focus on the way you name your 365 groups and how they show up in the list, then departments, and divisons then organisation)
 * Have people to enrol their Devices (ensure access governance has frictionless MFA and implement conditional access policies and continuous access evaluation)
 * Have health Devices then Evolve to Zero Trust
