@@ -12,6 +12,8 @@ Microsoft Governance Introduction for Organisations thinking about Architecting 
 * Working cross tenant to improve tenant to tenant organisations (shared channels).
 * Staged approach for an audit
 * Build up Data Governance Policy
+* Prove that we have mitigated the initial risk then show how risk can be managed moving forward
+* Initial review on who has access to what
 
 ## Phases
 * Good Governance preceeds Good adoption
