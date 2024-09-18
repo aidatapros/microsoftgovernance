@@ -1,5 +1,5 @@
 # Microsoft Governance
-Microsoft Governance for Architecting Collaboration Experiences - Good
+Microsoft Governance Introduction for Organisations thinking about Architecting Frictionless Collaboration Experiences 
 
 ## Key Issues off the bat
 * Get Membership right
