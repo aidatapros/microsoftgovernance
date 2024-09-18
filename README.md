@@ -9,6 +9,7 @@ Microsoft Governance for Architecting Collaboration Experiences - Good
 * Hybrid is here to stay - some organisations are asking people back to the office but many are not
 * One size fits all doesn't work - have different policies for different types of experiences in the 365
 * Happy people and good adoption if you automate as much as possible
+* Working cross tenant to improve tenant to tenant organisations (shared channels).
 
 ## Phases
 * First make sure M365 Group Governance in order - (even if you just focus on the way you name your 365 groups and how they show up in the list, then departments, and divisons then organisation)
