@@ -3,7 +3,7 @@ Microsoft Governance for Architecting Collaboration Experiences - Good
 
 ## Key Issues off the bat
 * Get Membership right
-* Identity right
+* Get Identity right
 * Support people on whatever device they are using
 * Different types of governance for different levels of people in your organisation
 * Hybrid is here to stay - some organisations are asking people back to the office but many are not
