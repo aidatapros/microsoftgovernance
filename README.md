@@ -58,8 +58,8 @@ Hour 2: Defining Governance Requirements
 * Identify sensitive data and compliance requirements.
 
 Hour 3: Policy Design and Best Practices
-Discuss governance best practices: site creation, team naming conventions, and access controls.
-Introduce specific Microsoft 365 governance tools like sensitivity labels and guest access controls.
+* Discuss governance best practices: site creation, team naming conventions, and access controls.
+* Introduce specific Microsoft 365 governance tools like sensitivity labels and guest access controls.
 
 Hour 4: Phased Implementation and Next Steps
 * Plan a phased rollout.
