@@ -10,6 +10,8 @@ Microsoft Governance Introduction for Organisations thinking about Architecting 
 * Hybrid is here to stay - some organisations are asking people back to the office but many are not
 * Happy people and good adoption if you automate as much as possible
 * Working cross tenant to improve tenant to tenant organisations (shared channels).
+* Staged approach for an audit
+* Build up Data Governance Policy
 
 ## Phases
 * Good Governance preceeds Good adoption
