@@ -6,8 +6,8 @@ Microsoft Governance Introduction for Organisations thinking about Architecting 
 * Get Identity right
 * Support people on whatever device they are using
 * Different types of governance for different levels of people in your organisation
-* Hybrid is here to stay - some organisations are asking people back to the office but many are not
 * One size fits all doesn't work - have different policies for different types of experiences in the 365
+* Hybrid is here to stay - some organisations are asking people back to the office but many are not
 * Happy people and good adoption if you automate as much as possible
 * Working cross tenant to improve tenant to tenant organisations (shared channels).
 
