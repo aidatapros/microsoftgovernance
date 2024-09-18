@@ -1,7 +1,7 @@
 # Microsoft Governance
 Microsoft Governance Introduction for Organisations thinking about Architecting Frictionless Collaboration Experiences 
 
-## Key Issues off the bat
+## Key Issues to Discuss
 * Get Membership right
 * Get Identity right
 * Support people on whatever device they are using
