@@ -12,7 +12,7 @@ Microsoft Governance for Architecting Collaboration Experiences - Good
 
 ## Phases
 * First make sure M365 Group Governance in order - (even if you just focus on the way you name your 365 groups and how they show up in the list, then departments, and divisons then organisation)
-* Have people to enrol their Devices (ensure access governance has frictionless MFA and implement conditional access policies)
+* Have people to enrol their Devices (ensure access governance has frictionless MFA and implement conditional access policies and continuous access evaluation)
 * Have health Devices then Evolve to Zero Trust
 
 ## Top 5 Points to Reinforce:
@@ -20,13 +20,22 @@ Microsoft Governance for Architecting Collaboration Experiences - Good
 1. Governance is More than Monitoring:
 
 Data governance is not just about reviewing access logs but about creating policies to ensure proper data handling across the entire lifecycle, from creation to deletion.
-Balance Between Control and Usability: Locking down too much will hinder productivity. Governance should enable secure collaboration without making it difficult for users to get their jobs done.
-Phased Approach: Start small and scale up. Rolling out in phases helps identify issues early and fine-tune governance before a full deployment.
-User-Centric Policies: Governance needs to be built around how users collaborate. Understand their requirements and tailor policies to support business processes while maintaining security.
 
-3. Training and Communication:
+**Data Governance is Proactive, Not Just Reactive: It's about defining policies, roles, and processes before problems arise, not just reacting to data breaches or misuse.**
+
+2. Balance Between Control and Usability: Locking down too much will hinder productivity. Governance should enable secure collaboration without making it difficult for users to get their jobs done.
+
+3. Phased Approach: Start small and scale up. Rolling out in phases helps identify issues early and fine-tune governance before a full deployment.
+
+4. User-Centric Policies: Governance needs to be built around how users collaborate. Understand their requirements and tailor policies to support business processes while maintaining security.
+
+**It's About Business Value, Not Just Compliance: Data governance helps organizations derive value from their data, improve decision-making, and foster innovation.**
+
+5. Training and Communication:
 
 Implementing policies without proper training will lead to workarounds. Embed governance into daily tools and provide ongoing training.
+
+**People are Key: Technology is important, but data governance success hinges on clear communication, collaboration, and accountability across the organization.**
 
 4. How to Start:
 
