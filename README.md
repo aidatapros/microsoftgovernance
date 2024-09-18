@@ -53,11 +53,11 @@ A 4-hour workshop could be structured as follows:
 Hour 1: Introduction to Data Governance
 * Overview of governance principles (balancing risk vs. usability, stages of implementation).
 * Key stakeholders and their roles.
+* Introduction to Purview
 
 Hour 2: Defining Governance Requirements
 * Explore business goals and collaboration needs.
 * Identify sensitive data and compliance requirements.
-* Introduction to Purview
 
 Hour 3: Policy Design and Best Practices
 * Discuss governance best practices: site creation, team naming conventions, and access controls.
