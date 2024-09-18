@@ -38,9 +38,12 @@ Implementing policies without proper training will lead to workarounds. Embed go
 
 **People are Key: Technology is important, but data governance success hinges on clear communication, collaboration, and accountability across the organization.**
 
-4. How to Start:
+## How to Start:
 
-Begin by understanding the business goals and how data is used within the organization. Identify key stakeholders and start with a pilot program to experiment with governance policies. Ensure you balance security, compliance, and business needs. Develop initial policies for areas such as data sharing, naming conventions, and guest access.
+* Begin by understanding the business goals and how data is used within the organisation.
+* Identify key stakeholders and start with a pilot program to experiment with governance policies. 
+* Ensure you balance security, compliance, and business needs. 
+* Develop initial policies for areas such as data sharing, naming conventions, and guest access.
 
 ## 4-Hour Workshop Structure:
 
