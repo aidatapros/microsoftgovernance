@@ -1,6 +1,10 @@
 # Microsoft Governance
 Microsoft Governance Introduction for Organisations thinking about Architecting Frictionless Collaboration Experiences 
 
+## Governance Accelerator
+
+https://github.com/microsoft/microsoft-data-governance-accelerator
+
 ## Key Issues to Discuss
 * Get Membership right
 * Get Identity right
